@@ -49,7 +49,7 @@ function move() {
           element.style.color = "#8b0000";
           element2.style.color = "#8b0000";
           element2.innerHTML =
-            "Lucky number is between 1 and 5000. <b>Please Try Again!</b>";
+            "Lucky number is between 1 and 5000.<br/> <b>Please Try Again!</b>";
         }
       }
     }
