@@ -1,1 +1,1 @@
-# js-lottery
+# https://sugamb.github.io/js-lottery/
