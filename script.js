@@ -40,7 +40,7 @@ function move() {
       console.log(count);
       if (count === 30) {
         done = true;
-        if (ran > 1 && ran < 50000) {
+        if (ran > 1 && ran < 5000) {
           element.style.color = "teal";
           element2.style.color = "teal";
           element2.innerHTML =
@@ -49,7 +49,7 @@ function move() {
           element.style.color = "#8b0000";
           element2.style.color = "#8b0000";
           element2.innerHTML =
-            "Lucky number is between 1 and 50000. <b>Please Try Again!</b>";
+            "Lucky number is between 1 and 5000. <b>Please Try Again!</b>";
         }
       }
     }
