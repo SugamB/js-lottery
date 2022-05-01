@@ -1,0 +1,62 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  min-width: 300px;
+  min-height: 30px;
+  color: black;
+  background-color: #e6f5e5;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 30px;
+  padding: 5px;
+  padding-left: 2%;
+  display: inline-block;
+  font-size: 22px;
+  /*   cursor: pointer; */
+}
+
+p {
+  text-align: left;
+  width: 100%;
+}
+
+#value {
+  font: 800 40px system-ui;
+  text-align: center;
+}
+
+#value2 {
+  font: 400 30px system-ui;
+  font-style: italic;
+  text-align: center;
+}
+
+.button {
+  width: 120px;
+  color: black;
+  background-color: #dff2bf;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+
+}
+
+.info {
+  height: auto;
+  padding: 12px;
+  overflow: hidden;
+}
+
+.expandButton {
+  font-weight: bold;
+  font-size: 60px;
+  width: 20px;
+  color: black;
+  /*   background-color: #dff2bf; */
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+  cursor: pointer;
+  margin-left: 95%;
+}
